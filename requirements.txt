@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pdfplumber
+fpdf
+sentence-transformers
+google-generativeai
+Flask
+scikit-learn
+PyMuPDF
+python-dotenv
+weasyprint
